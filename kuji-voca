@@ -74,7 +74,7 @@
         {name: "希望", url:"#"}, {name: "孤独", url:"#"}, {name: "夢", url:"#"}, {name: "未来", url:"#"}, {name: "恋", url:"#"}
       ],
       constraint: [
-        {name: "3分以内", url:"#"}, {name: "バラード", url:"#"}, {name: "コーラス多め", url:"#"}, {name: "サビ2回以上", url:"#"}
+        {name: "3分以内", url:"#"}, {name: "2分以内", url:"#"}, {name: "サビ歌詞無し", url:"#"}, {name: "転調", url:"#"}
       ]
     };
 
